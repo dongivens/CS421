@@ -1,3 +1,10 @@
 {
-    "C_Cpp.errorSquiggles": "enabled"
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "problem1.C": "cpp",
+        "problem2.C": "cpp",
+        "problem4.C": "cpp",
+        "problem5.C": "cpp",
+        "problem6.C": "cpp"
+    }
 }
